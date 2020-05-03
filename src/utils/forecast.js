@@ -17,7 +17,7 @@ const forecast = (latitude, longitude, callback) => {
         "The Current temperature is " +
           body.current.temp_c +
           " and the weather is " +
-          body.current.condition.text
+        body.current.condition.text + ".            Local Time :" + body.location.localtime + ". " + "Latitude and Longitude :" + body.location.lat + ", " + body.location.lon
       );
     }
   });
