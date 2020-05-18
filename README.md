@@ -14,6 +14,10 @@ Visit the Heroku link :link: https://ancient-beyond-28813.herokuapp.com/
 React-Redux app to track IT department tasks and issues. 
 Uses JSON-Server as a mock backend.
 
+## :key: Preview: 
+<img src="https://github.com/beastgetssavvy13/node-js3-weather-website/blob/master/public/12.JPG"/>
+<br>
+
 
 ## :rocket: Installation and Utilities
 
