@@ -2,13 +2,13 @@
 
 > Contributor : Kavish Pandit 
 
-# node-js3-weather-website
+# Weather.io
 Node-Js-Weather application using weather api <br> 
 Visit the Heroku link :link: https://ancient-beyond-28813.herokuapp.com/
 
-:ticket: Uses  as a mock backend<br>
+:ticket: Uses node js with postman for meeting Endpoints of backend<br>
 
-:hammer_and_wrench: Used Material Icons and Google Public API
+:hammer_and_wrench: Used Hbh and Google Public API and Weather API 
 
 <!-- The following paragraph should be kept synchronized with the description in appinfo/info.xml -->
 React-Redux app to track IT department tasks and issues. 
